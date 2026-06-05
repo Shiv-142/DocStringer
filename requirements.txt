@@ -1,0 +1,8 @@
+torch==2.5.1
+transformers==4.47.0
+peft==0.14.0
+bitsandbytes==0.45.0
+accelerate==1.2.1
+trl==0.12.1
+gradio
+datasets
