@@ -16,4 +16,4 @@ A Python docstring generator built by finetuning Qwen2.5-Coder with QDoRA. Given
    ```bash
    pip install -r requirements.txt
    
-3. Open DocStringer.ipynb, comment out the Google Colab setup cell if and uncomment the local workspace directory line if running locally, and run all cells.
+3. Open DocStringer.ipynb, comment out the Google Colab setup cell and uncomment the local workspace directory line if running locally, and run all cells.
