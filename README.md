@@ -18,4 +18,7 @@ A Python docstring generator built by finetuning Qwen2.5-Coder with QDoRA. Given
    
 3. Open DocStringer.ipynb, comment out the Google Colab setup cell and uncomment the local workspace directory line if running locally, and run all cells.
 
-[![Hugging Face Spaces](https://img.shields.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Shiv-142/DocStringer)
+## Live Demo
+Alternatively, you can try out **DocStringer** instantly in your browser without installing anything via HuggingFace: 
+
+👉 [Click here to use the interactive Gradio web app on Hugging Face Spaces](https://huggingface.co/spaces/Shiv-142/DocStringer)
