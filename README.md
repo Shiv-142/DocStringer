@@ -14,7 +14,7 @@ You can try out **DocStringer** instantly in your browser, without installing an
 ### Local Deployment
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/Shiv-142/DocStringer.git](https://github.com/Shiv-142/DocStringer.git)
+   git clone https://github.com/Shiv-142/DocStringer.git
    cd DocStringer
 
 2. Install the required dependencies:
